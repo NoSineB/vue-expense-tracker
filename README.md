@@ -29,3 +29,6 @@ npm run build
 ```
 
 **This is my expense tracker project using vue**
+
+
+**Alay learned**
